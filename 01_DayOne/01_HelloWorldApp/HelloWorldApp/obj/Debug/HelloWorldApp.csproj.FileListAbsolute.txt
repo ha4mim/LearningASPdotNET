@@ -1,0 +1,7 @@
+D:\LearningASPdotNET\01_DayOne\01_HelloWorldApp\HelloWorldApp\bin\Debug\HelloWorldApp.exe.config
+D:\LearningASPdotNET\01_DayOne\01_HelloWorldApp\HelloWorldApp\bin\Debug\HelloWorldApp.exe
+D:\LearningASPdotNET\01_DayOne\01_HelloWorldApp\HelloWorldApp\bin\Debug\HelloWorldApp.pdb
+D:\LearningASPdotNET\01_DayOne\01_HelloWorldApp\HelloWorldApp\obj\Debug\HelloWorldApp.csproj.AssemblyReference.cache
+D:\LearningASPdotNET\01_DayOne\01_HelloWorldApp\HelloWorldApp\obj\Debug\HelloWorldApp.csproj.CoreCompileInputs.cache
+D:\LearningASPdotNET\01_DayOne\01_HelloWorldApp\HelloWorldApp\obj\Debug\HelloWorldApp.exe
+D:\LearningASPdotNET\01_DayOne\01_HelloWorldApp\HelloWorldApp\obj\Debug\HelloWorldApp.pdb
